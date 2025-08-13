@@ -1,6 +1,6 @@
 .env
-Crystals.json
-Equipments.json
-news_links.txt
-Consumables.json
+.Crystals.json
+.Equipments.json
+.news_links.txt
+.Consumables.json
 articles/
